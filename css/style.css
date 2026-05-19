@@ -64,3 +64,15 @@ section:target {
 	display: block; 
 }
 
+.repository {
+	border: 2px solid white;
+	margin: 5px;
+	padding: 10px;
+	background-color: white;
+	color: black;
+}
+
+.repolink {
+	padding: 6px 2px;
+	background-color: #A4AA9F;
+}
